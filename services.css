@@ -1,0 +1,30 @@
+html,body{
+padding:0px;
+margin:0px;	
+}
+#menu{
+	height:35px;
+	background-color:#FF6347;
+	color:white;
+	clear: both;
+	font-family: "Helvetica Neue",Verdana,Arial,sans-serif;
+	font-size: 14px;
+line-height: 1.5;
+	}
+#menu a{
+	margin:10px;
+	color:white;
+	font-family: "Helvetica Neue",Verdana,Arial,sans-serif;
+	font-size: 14px;
+	 text-decoration: none;
+
+}
+#menu a:hover {
+    color:yellow;
+}
+.topice{
+	font-size: 14px;
+	color:green;
+	 text-decoration: none;
+	 padding:10px;
+}

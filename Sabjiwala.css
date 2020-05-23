@@ -1,0 +1,150 @@
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+.Container{
+	width: 100%;
+    min-width: 500px;
+    margin: auto;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+	
+}
+
+#Home{
+	height:40px;
+	
+}
+#menu{
+	height:35px;
+	background-color:#FF6347;
+	color:white;
+	clear: both;
+	font-family: "Helvetica Neue",Verdana,Arial,sans-serif;
+	font-size: 14px;
+line-height: 1.5;
+	}
+#menu a{
+	margin:10px;
+	color:white;
+	font-family: "Helvetica Neue",Verdana,Arial,sans-serif;
+	font-size: 14px;
+	 text-decoration: none;
+
+}
+#menu a:hover {
+    color:yellow;
+}
+
+#mainbanner{
+	height:300px;
+	width:60%;
+	
+}
+
+#BESTSEller{
+	height:30px;
+	width:100%;
+	background-color:#32CD32;
+	COLOR:WHITE;
+	font-size:25px;
+	text-align:center;
+}
+
+
+#BESTSEller1 img{
+	width:100%;
+}
+#leftpannal{
+	width:35%;
+	  vertical-align:top;
+}
+#leftpannal img{
+	width:100%;
+}
+#deal{height:30px;
+	
+	background-color:#32CD32;
+	COLOR:WHITE;
+	font-size:25px;
+	text-align:center;
+	 border-top-left-radius:20px;
+ border-top-right-radius:20px;
+ 
+	
+}
+#FRUIT{
+	background-color:#32CD32;
+	text-align:center;
+	COLOR:WHITE;
+	font-size:20px;
+}
+#FAQS{height:30px;
+	
+	background-color:#32CD32;
+	COLOR:WHITE;
+	font-size:25px;
+	text-align:center;
+	
+}
+
+#Vegetables{
+	height:30px;
+	width:20%;
+		 border-top-left-radius:20px;
+ border-top-right-radius:20px;
+	background-color:#32CD32;
+	COLOR:WHITE;
+	font-size:25px;
+	
+}
+#vegpik img{
+	width:200px;
+	height:190px;
+	vertical-align:top;
+	 text-decoration: none;
+}
+#FRUITS{
+	height:30px;
+	 text-decoration: none;
+	background-color:#32CD32;
+	COLOR:WHITE;
+	font-size:25px;
+		 border-top-left-radius:20px;
+ border-top-right-radius:20px;
+}
+#pick{height:30px;
+
+	
+	COLOR:WHITE;
+	font-size:25px;
+	text-align:center;
+	
+}
+#pick img{
+	height:80px;
+	width:100%;
+	
+	
+}
+#footer{background-color:#32CD32;
+	height:30px;
+	
+}
+#footer img{
+	width:250px;
+	height:34px;
+vertical-align:left;
+}
+#footer1 {
+	height:30px;
+	COLOR:red;
+	font-size:25px;
+	text-align:center;
+	height:40px;
+}

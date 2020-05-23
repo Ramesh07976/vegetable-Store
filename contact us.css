@@ -1,0 +1,31 @@
+body, html {
+    margin: 0 auto;
+    padding: 0 auto;
+    
+
+}
+
+#menu{
+	height:35px;
+	background-color:#FF6347;
+	color:white;
+	clear: both;
+	font-family: "Helvetica Neue",Verdana,Arial,sans-serif;
+	font-size: 14px;
+line-height: 1.5;
+	}
+#menu a{
+	margin:10px;
+	color:white;
+	font-family: "Helvetica Neue",Verdana,Arial,sans-serif;
+	font-size: 14px;
+	 text-decoration: none;
+
+}
+#menu a:hover {
+    color:yellow;
+}
+	
+.address{
+	margin:15px;
+}
